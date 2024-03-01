@@ -1,0 +1,32 @@
+.editor-paragraph {
+  margin: 0 0 15px 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+.editor-placeholder {
+  color: #a9a9a9;
+  user-select: none;
+  pointer-events: none;
+}
+
+.editor-container {
+  min-height: 40px;
+  max-height: 200px;
+  width: auto;
+  text-align: left;
+  padding: 10px;
+  padding-bottom: 0;
+  border: 1px solid black;
+  border-radius: 5px;
+  overflow-y: scroll;
+}
+
+.message {
+  font-size: 12px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}

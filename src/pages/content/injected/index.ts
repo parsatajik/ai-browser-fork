@@ -8,3 +8,5 @@
  *
  */
 import('@pages/content/injected/toggleTheme');
+import('@pages/content/injected/openSidePanel');
+import('@pages/content/injected/convertDomToMd');
